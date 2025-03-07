@@ -1,0 +1,3 @@
+git remote add origin https://github.com/alananicole14/git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+git branch -M main
+git push -u origin main
